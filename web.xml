@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jsp-config>
+    <taglib>
+        <taglib-uri>http://java.sun.com/jsp/jstl/core</taglib-uri>
+        <taglib-location>/WEB-INF/lib/jakarta.servlet.jsp.jstl-2.0.0.jar</taglib-location>
+    </taglib>
+</jsp-config>
